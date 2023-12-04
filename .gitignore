@@ -1,0 +1,3 @@
+# Test tmp files
+test-reports
+.pytest_cache
